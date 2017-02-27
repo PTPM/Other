@@ -1,0 +1,449 @@
+﻿GFX Name
+AMD Radeon (TM) R9 200 Series
+NVIDIA GeForce 9400 GT 
+AMD Radeon(TM) R5 Graphics
+Intel(R) HD Graphics 4000
+NVIDIA GeForce GT 645M
+Intel(R)  946GZ Express Chipset Family
+NVIDIA GeForce GT 430
+NVIDIA GeForce GT 730
+AMD Radeon(TM) HD 6520G
+ATI Radeon 3100 Graphics
+AMD Radeon HD 6320 Graphics
+AMD Radeon HD 6310 Graphics
+Mobile Intel(R) 945 Express Chipset Family
+NVIDIA GeForce 7025 / NVIDIA nForce 630a
+Intel(R) HD Graphics
+NVIDIA GeForce 6150SE nForce 430
+NVIDIA GeForce GT 620M  
+AMD Radeon R7 200 Series
+AMD Radeon HD 6800 Series
+NVIDIA GeForce 8600 GT 
+ATI Radeon HD 5450
+Intel(R) Q45/Q43 Express Chipset
+NVIDIA GeForce GT 630
+NVIDIA GeForce 7050 PV / NVIDIA nForce 630a (Microsoft Corporation - WDDM)
+AMD Radeon HD 6470M
+AMD Radeon R5 220
+NVIDIA GeForce GT 610
+NVIDIA GeForce 6150SE nForce 430 (Microsoft Corporation - WDDM)
+AMD 760G
+AMD Radeon(TM) R6
+Intel(R) G33/G31 Express Chipset Family
+AMD Radeon R9 200 Series
+NVIDIA GeForce 6100 nForce 405
+Intel(R) 82945G Express Chipset Family
+ATI Radeon HD 4300/4500 Series
+NVIDIA GeForce GTX 750 Ti
+AMD Radeon HD 7480D
+AMD Radeon HD 6570
+ATI Mobility Radeon HD 4250            
+NVIDIA GeForce GTX 660 Ti
+NVIDIA GeForce GT 220 
+Intel(R) Q35 Express Chipset Family
+NVIDIA GeForce GTX 260
+NVIDIA GeForce 9600 GT
+AMD Radeon HD 7470M
+NVIDIA GeForce GT 640
+NVIDIA GeForce GTX 950
+NVIDIA GeForce GTX 1070
+AMD Radeon HD 8470D
+Famille de jeu de puces Express Mobile Intel(R) 45 (Microsoft Corporation - WDDM 1.1)
+NVIDIA GeForce 920M
+Intel(R) HD Graphics 3000
+NVIDIA GeForce GT 540M
+NVIDIA GeForce GT 240
+ATI Radeon HD 5400 Series
+ATI Mobility Radeon HD 5470      
+Intel(R) HD Graphics 510
+Intel(R)  Q965/Q963 Express Chipset Family (Microsoft Corporation - WDDM 1.0)
+NVIDIA GeForce GT 540M    
+Mobile Intel(R) 4 Series Express Chipset Family
+Radeon X1950 Pro
+Intel(R) HD Graphics 5500
+ATI Radeon HD 3200 Graphics
+AMD Radeon(TM) R2 Graphics
+ATI Radeon HD 4250
+Intel(R) HD Graphics Family
+ATI Radeon 2100
+NVIDIA GeForce 210 
+AMD Radeon HD 8240
+Intel(R) G33/G31 Express Chipset Family (Microsoft Corporation - WDDM 1.0)
+AMD Radeon HD 6250 Graphics
+Intel(R) Graphics Media Accelerator 3150
+Intel(R) Graphics Media Accelerator 3600 Series
+Familia Intel(R) G33/G31 Express Chipset (Microsoft Corporation - WDDM 1.0)
+Intel(R) Q45/Q43 Express Chipset (Microsoft Corporation - WDDM 1.1)
+Mobile Intel(R) 965 Express Chipset Family (Microsoft Corporation - WDDM 1.1)
+NVIDIA GeForce GTX 950M         
+Intel(R) HD Graphics 520
+Intel(R) G41 Express Chipset
+NVIDIA GeForce GT 640 
+NVIDIA NVS 5200M  
+NVIDIA GeForce 9300 GE
+AMD Radeon (TM) R7 370 Series
+NVIDIA GeForce 940MX
+Intel(R) HD Graphics 4400
+Mobile Intel(R) 45 Express Chipset Family (Microsoft Corporation - WDDM 1.1)
+ATI Mobility Radeon HD 4200 Series
+NVIDIA GeForce 9800 GT  
+NVIDIA GeForce GT 320M
+NVIDIA GeForce 9400 GT  
+NVIDIA GeForce 820M                      
+NVIDIA GeForce 710M     
+RADEON 9250/9200 SERIES
+NVIDIA GeForce GTX 650 Ti 
+ATI Radeon HD 3300 Graphics
+ATI Radeon HD 3200 Graphics 
+Intel(R) G45/G43 Express Chipset (Microsoft Corporation - WDDM 1.1)
+AMD Radeon HD 6300M Series
+NVIDIA GeForce GT 630M    
+AMD Radeon HD 5570
+Intel(R) Q35 Express Chipset Family (Microsoft Corporation - WDDM 1.0)
+ATI Radeon HD 4600 Series
+AMD Radeon HD 7400M Series
+NVIDIA GeForce GT 420
+AMD Radeon HD 6500 Series
+NVIDIA GeForce 820M
+VIA Chrome9 HC IGP WDDM 1.1
+ATI Radeon HD 4200 
+Intel(R) G41 Express Chipset (Microsoft Corporation - WDDM 1.1)
+NVIDIA GeForce GT 720M   
+Mobile Intel(R) 965 Express Chipset Family
+AMD Radeon HD 7620G + 8600M Dual Graphics
+NVIDIA GeForce GT 520M 
+ATI Mobility Radeon HD 4500 Series (Microsoft Corporation WDDM 1.1) 
+NVIDIA GeForce 8400GS
+ATI Mobility Radeon HD 5650  
+AMD Radeon HD 5670
+NVIDIA GeForce 940M
+NVIDIA GeForce 940M              
+NVIDIA GeForce GT 740
+NVIDIA GeForce 315M
+NVIDIA GeForce GTX 960M
+NVIDIA Quadro FX 1800
+ATI RADEON XPRESS 200M Series
+NVIDIA Quadro FX 570
+ATI Mobility Radeon HD 4300 Series (Microsoft Corporation WDDM 1.1) 
+AMD Radeon HD 6300 series Graphics
+NVIDIA GeForce GTX 650 Ti
+Intel(R) G45/G43 Express Chipset
+NVIDIA GeForce GT 740M
+Intel(R) 82915G/GV/910GL Express Chipset Family
+Mobile Intel(R) 945 Express Chipset Family (Microsoft Corporation - WDDM 1.0)
+ATI Radeon X1200 Series (Microsoft Corporation - WDDM) 
+NVIDIA GeForce 605
+NVIDIA GeForce GT 530
+AMD Radeon HD 5450
+AMD Radeon HD 6620G
+NVIDIA GeForce GT 540M        
+NVIDIA GeForce 8400 GS    
+NVIDIA GeForce GTX 650
+NVIDIA GeForce 8400 GS (Microsoft Corporation - WDDM v1.1)
+Intel(R) HD Graphics 4600
+AMD Radeon HD 8400 / R3 Series
+Mobile Intel(R) 4 Series Express Chipset Family (Microsoft Corporation - WDDM 1.1)
+ATI Mobility Radeon HD 3400 Series
+NVIDIA Quadro M1000M
+AMD Radeon HD 7660D
+ATI Radeon HD 3200 Graphics (Microsoft Corporation WDDM 1.1)  
+NVIDIA GeForce GT 705
+AMD Radeon HD 8670D
+AMD Radeon(TM) HD 8610G
+NVIDIA Quadro 1000M
+NVIDIA GeForce 410M
+NVIDIA GeForce GTX 560 SE
+ATI Mobility Radeon HD 4500 Series
+��������� ������� ��������� Mobile Intel(R) 45 Express (���������� ���������� - WDDM 1.1)
+NVIDIA GeForce GTX 760
+AMD Radeon(TM) HD 6480G
+Microsoft Basic Render Driver
+NVIDIA GeForce 9500 GT
+AMD Radeon HD 8400
+NVIDIA GeForce 9650M GT
+NVIDIA GeForce 315M             
+ASUS R5 230 Series
+ATI Mobility Radeon HD 4570                    
+ATI Radeon HD 3600 Series
+NVIDIA GeForce 920M          
+NVIDIA GeForce GTX 970
+NVIDIA GeForce 930M  
+NVIDIA GeForce GT 320M  
+Intel(R) Graphics Media Accelerator HD
+NVIDIA GeForce 210
+NVIDIA Quadro K1100M 
+AMD Radeon HD 6700 Series
+NVIDIA GeForce GT 520 
+AMD Radeon HD 6670
+ATI Mobility Radeon HD 4650
+AMD Radeon HD 7310 Graphics
+NVIDIA GeForce GT 610 
+NVIDIA GeForce GT 520
+AMD Radeon HD 7520G
+NVIDIA GeForce 9500 GT (Microsoft Corporation - WDDM v1.1)
+NVIDIA GeForce GTS 450
+NVIDIA GeForce GTX 770M
+AMD Radeon HD 7700 Series
+NVIDIA GeForce GTX 750
+NVIDIA GeForce GT 640M
+Parallels Display Adapter (WDDM)
+NVIDIA GeForce GT 425M 
+AMD Radeon HD 8330
+AMD Radeon HD 8350
+AMD Radeon HD 7640G + HD 7600M Dual Graphics
+Radeon X300/X550/X1050 Series
+ATI Radeon HD 5670
+NVIDIA GeForce G100
+NVIDIA GeForce 820M    
+NVIDIA GeForce G210 
+AMD Radeon HD 5500 Series
+Mobile Intel(R) 45 Express Yonga K�mesi Ailesi (Microsoft Corporation - WDDM 1.1)
+NVIDIA GeForce GT 320
+NVIDIA GeForce GTX 550 Ti
+NVIDIA GeForce 820M     
+ATI Mobility Radeon X2300
+VIA/S3G UniChrome Pro IGP
+NVIDIA GeForce GT 625
+AMD Radeon HD 7660G
+ATI Radeon HD 4800 Series
+NVIDIA GeForce GT 635M 
+ATI Radeon Xpress 1150 Series
+AMD Radeon 6600M and 6700M Series
+NVIDIA GeForce GTX 745
+AMD Radeon HD 8210
+NVIDIA GeForce 610M   
+AMD Radeon HD 6290 Graphics
+NVIDIA GeForce GTX 950M
+NVIDIA GeForce GT 630M
+NVIDIA GeForce 9600M GS
+AMD Radeon HD 7640G + 7600M Dual Graphics
+NVIDIA GeForce GT 620 
+ATI Radeon Xpress 1150
+NVIDIA GeForce GTX 1050 Ti
+ATI Radeon HD 3870 (Microsoft Corporation - WDDM v1.1)
+NVIDIA GeForce 9600 GT (Microsoft Corporation - WDDM v1.1)
+NVIDIA GeForce 7300 SE/7200 GS
+NVIDIA GeForce GTS 450   
+AMD Radeon HD 7800 Series
+ATI Mobility Radeon HD 5400 Series
+AMD Radeon HD 7570 Series
+NVIDIA GeForce 8200 (Microsoft Corporation - WDDM v1.1)
+AMD Radeon HD 6310 Graphics                     
+NVIDIA GeForce 615
+ATI Radeon HD 3850
+ATI Mobility Radeon HD 5650      
+NVIDIA GeForce GTX 960
+NVIDIA GeForce GT 635M
+NVIDIA GeForce 840M
+NVIDIA GeForce 7100 / NVIDIA nForce 630i (Microsoft Corporation - WDDM)
+AMD Radeon(TM) R4 Graphics
+NVIDIA GeForce GT 745M     
+NVIDIA GeForce 8400M GT
+ATI Radeon HD 4200
+NVIDIA GeForce GT 520MX
+NVIDIA GeForce 610M       
+NVIDIA GeForce 9600M GT           
+ATI Radeon HD 7350
+AMD Radeon HD 6630M
+NVIDIA GeForce GTX 570
+AMD Radeon HD 8370D
+NVIDIA GeForce 820M                  
+AMD Radeon HD 5800 Series
+NVIDIA GeForce GT 620
+AMD Radeon(TM) R7 Graphics
+NVIDIA GeForce GT 730  
+AMD Radeon HD 5700 Series
+NVIDIA GeForce GT 220
+AMD Radeon (TM) R9 M360
+Intel(R) Atom(TM) Processor E3800 Series/Intel(R) Celeron(R) Processor N2920/J1900
+ATI Radeon HD 4250      
+AMD Mobility Radeon HD 5000 Series
+AMD Radeon HD 7420G
+NVIDIA GeForce 9400 GT (Microsoft Corporation - WDDM v1.1)
+AMD Radeon HD 7560D
+NVIDIA GeForce 7025 / NVIDIA nForce 630a (Microsoft Corporation - WDDM)
+NVIDIA GeForce 9200M GS 
+NVIDIA GeForce 310M
+NVIDIA GeForce 7300 LE
+NVIDIA GeForce GTX 680
+NVIDIA GeForce GT 750M
+Familia Intel(R) HD Graphics (Microsoft Corporation - WDDM 1.2)
+Radeon X300/X550/X1050 Series (Microsoft Corporation - WDDM) 
+NVIDIA GeForce 6100
+ATI Mobility Radeon HD 5000 Series
+Intel(R)  Q965/Q963 Express Chipset Family (Microsoft Corporation - WDDM 1.1)
+ATI Radeon HD 5600/5700
+AMD Radeon HD 6530D
+Mobile Intel(R) 945 Express lapkak�szletcsal�d (Microsoft Corporation - WDDM 1.0)
+AMD Radeon HD 7290 Graphics
+NVIDIA GeForce 9800 GT (Microsoft Corporation - WDDM v1.1)
+Intel(R) Q33 Express Chipset Family
+ATI Radeon HD 2600 XT
+Familia Intel(R) 82945G Express Chipset (Microsoft Corporation - WDDM 1.0)
+Intel(R) 82945G Express Chipset Family (Microsoft Corporation - WDDM 1.0)
+Intel(R)  Q965/Q963 Express Chipset Family
+AMD M880G with ATI Mobility Radeon HD 4250        
+ATI Radeon HD 4650
+ATI Radeon HD 6350
+AMD Radeon HD 6380G
+NVIDIA GeForce GT 325M 
+ATI Radeon HD 4300 Series
+NVIDIA GeForce GT 740M        
+NVIDIA GeForce GTS 250
+NVIDIA GeForce 7600 GS 
+ASUS EAH5450 Series
+NVIDIA GeForce GTX 660 
+NVIDIA GeForce 840M     
+AMD Radeon HD 6320 Graphics            
+ATI Radeon HD 2600 XT (Microsoft Corporation WDDM 1.1) 
+NVIDIA GeForce 6600 (Microsoft Corporation - WDDM)
+NVIDIA GeForce GT 530  
+ATI Radeon HD 3400 Series
+NVIDIA GeForce 9100M G  
+NVIDIA GeForce GT 240M
+AMD Radeon HD 6200 series Graphics  
+Intel(R) 82865G Graphics Controller
+NVIDIA GeForce 7300 SE/7200 GS (Microsoft Corporation - WDDM)
+NVIDIA NVS 5200M
+NVIDIA GeForce 820M      
+NVIDIA GeForce GT 720M
+NVIDIA GeForce GT 630M  
+AMD Radeon HD 7600G + HD 7500M/7600M Dual Graphics
+Radeon (TM) RX 470 Graphics
+AMD Radeon(TM) R6 Graphics
+Intel(R)  G965 Express Chipset Family (Microsoft Corporation - WDDM 1.1)
+AMD Radeon HD 7900 Series
+AMD Radeon HD 8350G
+Radeon X1600/X1650 Series
+NVIDIA GeForce GT 740M    
+Mobile Intel(R) HD Graphics
+Intel(R) B43 Express Chipset (Microsoft Corporation - WDDM 1.1)
+AMD Radeon HD 6310M
+Intel(R) G41 Express Yonga K�mesi (Microsoft Corporation - WDDM 1.1)
+NVIDIA GeForce 940MX       
+NVIDIA GeForce GTX 650 
+ATI RADEON XPRESS 200 Series
+AMD Radeon HD 7660G + 7670M Dual Graphics
+NVIDIA GeForce GT 720
+ATI Radeon 3000 Graphics
+ATI Radeon HD 4350
+ATI Radeon HD 2400 PRO
+ATI Mobility Radeon HD serie 4200 (Microsoft Corporation- WDDM v1.1)
+NVIDIA GeForce 920MX       
+NVIDIA GeForce 6150
+NVIDIA GeForce 930M
+ATI Radeon HD 4800 Series 
+NVIDIA GeForce 840M             
+ATI Radeon HD 5600 Series
+ASUS EAH4350 series
+NVIDIA GeForce GT 220  
+NVIDIA GeForce GT 630  
+NVIDIA GeForce 6150SE nForce 430        
+NVIDIA GeForce GTX 560
+AMD Radeon (TM) R9 380 Series
+NVIDIA GeForce 310M    
+NVIDIA GeForce GTX 660M
+ATI Radeon HD 4800 Series (Microsoft Corporation WDDM 1.1)  
+NVIDIA GeForce G 105M  
+NVIDIA GeForce GT 210 
+AMD Radeon HD 6550D
+AMD Radeon HD 6250 Graphics 
+NVIDIA GeForce 6200 TurboCache(TM)
+ATI Radeon HD 3600 Series      
+ATI Mobility Radeon HD 5650
+Mobile Intel(R) 945 Express Yonga K�mesi Ailesi (Microsoft Corporation - WDDM 1.0)
+NVIDIA GeForce GT 740M     
+AMD Radeon HD 6500M/5600/5700 Series
+NVIDIA GeForce GT 440
+AMD M880G with ATI Mobility Radeon HD 4250       
+NVIDIA GeForce 820M        
+AMD RADEON HD 6450
+NVIDIA GeForce GT 520M      
+NVIDIA GeForce GT 620M
+AMD Radeon HD 7540D
+AMD Radeon HD 6520G
+NVIDIA GeForce GT 710M
+NVIDIA GeForce 8400M GS
+NVIDIA GeForce GT 740M   
+ATI Radeon HD 2600 Pro
+NVIDIA GeForce G210
+ATI Radeon 2100 Graphics
+NVIDIA GeForce 7300 GS
+Intel(R)  946GZ Express Chipset Family (Microsoft Corporation - WDDM 1.0)
+ATI Mobility Radeon HD 5470
+NVIDIA GeForce 315M   
+NVIDIA GeForce GTX 1080
+NVIDIA GeForce GT 710   
+AMD Radeon HD 8570D
+ATI Radeon HD 5450 (Microsoft Corporation - WDDM v1.20)
+AMD Radeon R5
+NVIDIA GeForce 310M          
+ATI Radeon 2100 (Microsoft Corporation - WDDM) 
+NVIDIA GeForce 9300M GS               
+NVIDIA GeForce GT 640M 
+��������� ������� ��������� Mobile Intel(R) 965 Express (���������� ���������� - WDDM 1.1)
+NVIDIA GeForce 9200  
+AMD Radeon HD 6700 Series  
+AMD Radeon HD 7290M
+ATI Radeon HD 3450 (Microsoft Corporation WDDM 1.1) 
+NVIDIA GeForce GTX 480
+NVIDIA GeForce GT 610  
+ATI Radeon HD 4650 (Microsoft Corporation WDDM 1.1)         
+NVIDIA GeForce 8500 GT (Microsoft Corporation - WDDM v1.1)
+NVIDIA GeForce 8400 GS
+NVIDIA GeForce GT 540M           
+AMD Radeon HD 6290 Graphics      
+AMD Radeon(TM) HD 6480G          
+ATI Radeon HD 2400 XT
+ATI Radeon HD 5700 Series 
+Familia Mobile Intel(R) 945 Express Chipset (Microsoft Corporation - WDDM 1.0)
+AMD Radeon HD 7640G
+ATI Radeon HD 3800 Series
+AMD Radeon HD 8650G + 8750M Dual Graphics
+ATI Radeon Xpress Series      
+AMD Radeon HD 7450
+AMD Radeon HD 7340G
+AMD Radeon R7 240 Series
+NVIDIA GeForce 840M        
+Radeon X1600 Series (Microsoft Corporation - WDDM)  
+NVIDIA GeForce 920M                   
+NVIDIA GeForce 8600 GTS (Microsoft Corporation - WDDM v1.1)
+NVIDIA GeForce 610M  
+AMD Radeon HD 7500M/7600M Series
+ATI Radeon HD 2400 Series
+NVIDIA GeForce GT 630M                           
+NVIDIA GeForce GTX 670
+VIA Chrome9 HC IGP Family
+NVIDIA GeForce 315
+Radeon X1550 64-bit (Microsoft Corporation - WDDM)  
+NVIDIA GeForce GT 735M
+Radeon (TM) HD 6470M                     
+NVIDIA GeForce GT 520M
+NVIDIA GeForce GTX 1060 6GB
+NVIDIA GeForce 920M         
+ATI Radeon HD 5570
+NVIDIA GeForce GT 520M            
+Jeu de puces Express Intel(R) Q45/Q43 (Microsoft Corporation - WDDM 1.1)
+NVIDIA GeForce 7100 GS
+NVIDIA GeForce 7300 GT (Microsoft Corporation - WDDM)
+AMD Radeon HD 6410D
+ATI Radeon HD 6250
+AMD Radeon HD 6310 Graphics 
+NVIDIA GeForce GT 630M       
+NVIDIA GeForce G205M 
+ATI Radeon HD 3600 Series (Microsoft Corporation WDDM 1.1) 
+NVIDIA GeForce 7600 GS (Microsoft Corporation - WDDM)
+NVIDIA GeForce GT 440 
+NVIDIA GeForce GTX 560 
+AMD 760G (Microsoft Corporation WDDM 1.1) 
+AMD Radeon HD 7350
+AMD Radeon HD 7620G + HD 8670M Dual Graphics
+ATI Mobility Radeon HD 4500/5100 Series
+AMD Radeon (TM) R7 360 Series
+NVIDIA GeForce 710M
+ATI Mobility Radeon HD 4530 
+RADEON X600 Series (Microsoft Corporation - WDDM) 
+Intel(R) HD Graphics 5000
+NVIDIA GeForce GT 740M             
+NVIDIA GeForce 8500 GT
+NVIDIA GeForce GT 520M   
